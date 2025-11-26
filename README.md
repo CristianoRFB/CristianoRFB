@@ -19,8 +19,8 @@
 
 ## 📊 Minhas estatísticas
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUNOME&show_icons=true&theme=dark"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNOME&layout=compact&theme=dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cristiano&show_icons=true&theme=dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano&layout=compact&theme=dark"/>
 </div>
 
 ---
