@@ -37,16 +37,22 @@
 
   Sobre mim
 >  Trabalhando em projetos pessoais  
-- Me App.
-- Portifólio Integrado.
-- Sete Animes
----
+- [Me App.](https://github.com/CristianoRFB/Me-App)
+- [Portifólio Integrado.](https://github.com/CristianoRFB/Portifolio-Integrado.)
+- [S7 Animes.](https://github.com/CristianoRFB/S7-Animes)
 
->  Cursando superior na Fatec Jales  
-- Projeto Integrador - SIGO | Sistema de gerenciamento de oficinas
+> Idiomas
+- Português (nativo)
+- Inglês (avançado)
+
 ---
+>  Cursando superior na [Fatec Jales](https://github.com/orgs/Fatec-ADS-AMS2025)  
+- [Projeto Integrador - SIGO | Sistema de gerenciamento de oficinas](https://github.com/PI-SIGO)
+- Contribuinte do projeto [Civitas](https://github.com/orgs/Fatec-ADS-AMS2025/projects/1)
+
+
 > Técnico em Análise e Desenvolvimento de Sistemas pela ETEC
-- Monografia | A inteligência Artificial na Educação.
----
+- [Monografia | A inteligência Artificial na Educação.](https://github.com/CristianoRFB/Monografia)
+
 
 <p align="center"> "Interesse constante assim como o aprendizado." </p>
