@@ -49,6 +49,7 @@
 >  Cursando superior na [Fatec Jales](https://github.com/orgs/Fatec-ADS-AMS2025)  
 - [Projeto Integrador - SIGO | Sistema de gerenciamento de oficinas](https://github.com/PI-SIGO)
 - Contribuinte do projeto [Civitas](https://github.com/orgs/Fatec-ADS-AMS2025/projects/1)
+- [Portifólio profissional](https://github.com/CristianoRFB/Portifolio-Fatec)
 
 
 > Técnico em Análise e Desenvolvimento de Sistemas pela ETEC
