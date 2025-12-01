@@ -29,8 +29,7 @@
 ---
 
 <div>
-  <img height="177" src="https://github-readme-stats.vercel.app/api?username=Cristiano&show_icons=true&theme=dark"/>
-  <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano&layout=compact&theme=dark"/>
+    <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano&layout=compact&theme=dark"/>
 </div>
 
 ---
