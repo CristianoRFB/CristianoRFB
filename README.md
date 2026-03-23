@@ -34,13 +34,6 @@
 
 ---
 
-  Sobre mim
->  Trabalhando em projetos pessoais  
-- [Me App.](https://github.com/CristianoRFB/Me-App)
-- [Portifólio Integrado.](https://github.com/CristianoRFB/Portifolio-Integrado.)
-- [S7 Animes.](https://github.com/CristianoRFB/S7-Animes)
--[Haiko Skin Changer](https://github.com/CristianoRFB/Haiko-Skin-Changer)
-
 > Idiomas
 - Português (nativo)
 - Inglês (avançado)
