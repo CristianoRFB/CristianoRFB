@@ -1,7 +1,7 @@
 <h1 align="center">Cristiano Ronaldo Ferreira Bueno</h1>
 
 <p align="center">
-   Developer em evolução | Focado em melhorar a cada commit  
+   Desenvolvedor fullstack focado em aplicações web com React e Node.js  
   
 <p align="center">
   <img src="https://img.shields.io/github/followers/CristianoRFB?style=for-the-badge" />
