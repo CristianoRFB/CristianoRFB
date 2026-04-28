@@ -12,27 +12,61 @@
 
 ---
 
+<h2> Stack Principal</h2>
+
+<h3> Linguagens & Base</h3>
 <div>
-    <img height="40" src="https://camo.githubusercontent.com/79962d1a9abbb64c9c44950973375086bb45d9982c04a4fe73b896c63a48a984/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030"/>
-    <img height="40" src="https://camo.githubusercontent.com/8034744803c27c8aaab4d20b74379109552d328526f309b09269da959b49fe0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
-    <img height="40" src="https://camo.githubusercontent.com/b108dc2388739d4cea2bef5cf6909c24a38398e393601fe6be0d7f63327431ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
-       
-   <img height="40" src="https://camo.githubusercontent.com/fc23e4c773b2f0f35ab4c09bd35268d4c7325576d69e217ec7d8fda1e5da2b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417a7572652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d666666"/>
-    <img height="40" src="https://camo.githubusercontent.com/a0cfe764639db6ce06e590eada4c90e7c25bf157cc11d9628e55452e8a03f153/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d666666"/>
-    <img height="40" src="https://camo.githubusercontent.com/038b2e847b79e79c96a446b498691678476f577b18c7c62b239a4b3e50016c5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d303030"/>
-    <img height="40" src="https://camo.githubusercontent.com/a03d9eec636d42f1baa62394bf251177493849a00990cfa62a134be0f7ee8f5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d666666"/>
-    <img height="40" src="https://camo.githubusercontent.com/6b6fb60e0c793af32d9b05d1a158bd4bc36892aa9908fd1cd4abafe6ff8696ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e45542d3531324244343f7374796c653d666f722d7468652d6261646765266c6f676f3d646f746e6574266c6f676f436f6c6f723d666666"/>
-    <img height="40" src="https://camo.githubusercontent.com/bbae354d7197d978a137075092b8f38668a1bd29a2b866445ef8edf7d6ef20b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d666666"/>
-     <img height="40" src="https://camo.githubusercontent.com/64e1d3230897656d693b01aad289b6b7794d4c9c42e55ceba4cbefe2bfc28bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d666666"/>
+  <img height="40" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img height="40" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
 </div>
 
 ---
 
+<h3> Back-end</h3>
 <div>
-    <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano&layout=compact&theme=dark"/>
+  <img height="40" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff"/>
 </div>
 
 ---
+
+<h3> Front-end</h3>
+<div>
+  <img height="40" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img height="40" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/>
+</div>
+
+---
+
+<h3> Banco de Dados & BaaS</h3>
+<div>
+  <img height="40" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+</div>
+
+---
+
+<h3> Outras Tecnologias</h3>
+<div>
+  <img height="40" src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000"/>
+</div>
+
+---
+
+<h3> Ferramentas</h3>
+<div>
+  <img height="40" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+  <img height="40" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+</div>
+
+---
+
 
 > Idiomas
 - Português (nativo)
