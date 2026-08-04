@@ -153,13 +153,13 @@ Landing page para clínica de estética com foco em **conversão, experiência m
 
 <img
   width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianoRFB&theme=radical"
+  src="./profile-summary-card-output/radical/3-stats.svg"
   alt="Estatísticas de CristianoRFB"
 />
 
 <img
   width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristianoRFB&theme=radical"
+  src="./profile-summary-card-output/radical/1-repos-per-language.svg"
   alt="Linguagens mais utilizadas"
 />
 
@@ -167,12 +167,15 @@ Landing page para clínica de estética com foco em **conversão, experiência m
 
 <img
   width="97%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianoRFB&theme=radical"
+  src="./profile-summary-card-output/radical/0-profile-details.svg"
   alt="Detalhes das contribuições de CristianoRFB"
 />
 
 </div>
+
 ---
+
+## Contribuições
 
 ## Contribuições
 
