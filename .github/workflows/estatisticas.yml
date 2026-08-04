@@ -6,12 +6,12 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   gerar-estatisticas:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Baixar repositório
@@ -23,10 +23,44 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: CristianoRFB
           BRANCH_NAME: main
           UTC_OFFSET: -3
-          AUTO_PUSH: true
+          AUTO_PUSH: false
           THEME: radical
           ANIMATION: load
           DURATION: 3
+
+      - name: Aplicar tema preto e vermelho neon
+        shell: bash
+        run: |
+          find profile-summary-card-output/radical \
+            -type f \
+            -name "*.svg" \
+            -print0 |
+          xargs -0 sed -i \
+            -e 's/#fe428e/#ff1744/g' \
+            -e 's/#a9fef7/#f5f5f5/g' \
+            -e 's/#141321/#050505/g' \
+            -e 's/#f8d847/#ff003c/g' \
+            -e 's/#ae81ff/#b3002d/g' \
+            -e 's/#178600/#ff1744/g' \
+            -e 's/#663399/#d5003d/g' \
+            -e 's/#e34c26/#b3002d/g' \
+            -e 's/#3178c6/#85001f/g' \
+            -e 's/#b07219/#5a0014/g'
+
+      - name: Salvar cartões personalizados
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-summary-card-output
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração encontrada."
+          else
+            git commit -m "Atualiza estatísticas do perfil"
+            git push
+          fi
