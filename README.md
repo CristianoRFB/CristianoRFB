@@ -151,31 +151,39 @@ Landing page para clínica de estética com foco em **conversão, experiência m
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
 <img
-  width="48%"
   src="./profile-summary-card-output/radical/3-stats.svg"
   alt="Estatísticas de CristianoRFB"
+  width="100%"
 />
 
+</td>
+
+<td width="50%" align="center" valign="top">
+
 <img
-  width="48%"
   src="./profile-summary-card-output/radical/1-repos-per-language.svg"
   alt="Linguagens mais utilizadas"
+  width="100%"
 />
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img
-  width="97%"
   src="./profile-summary-card-output/radical/0-profile-details.svg"
   alt="Detalhes das contribuições de CristianoRFB"
+  width="97%"
 />
 
 </div>
-
----
-
-## Contribuições
 
 ## Contribuições
 
