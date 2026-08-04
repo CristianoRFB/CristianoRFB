@@ -1,17 +1,19 @@
 <div align="center">
 
-# Cristiano Ronaldo Ferreira Bueno
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:1A0000,65:7A001C,100:FF003C&text=Cristiano%20Ronaldo%20Ferreira%20Bueno&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=58&animation=fadeIn"
+/>
 
-### Desenvolvedor Full Stack | React · Node.js · .NET
-
-Desenvolvo aplicações web, sistemas de gerenciamento e soluções digitais orientadas a problemas reais.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas na Fatec Jales**, participando de projetos acadêmicos, colaborativos e pessoais.
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=900&lines=Projetos+em+destaque%3A+Adrenalina+%7C+SIGO+%7C+Civitas;React+%7C+Node.js+%7C+.NET+%7C+TypeScript;Criando+solu%C3%A7%C3%B5es+reais+com+foco+em+produto+e+experi%C3%AAncia"
+/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/CristianoRFB?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores no GitHub"/>
-<img src="https://img.shields.io/github/stars/CristianoRFB?style=for-the-badge&logo=github&label=Estrelas" alt="Estrelas no GitHub"/>
+<img src="https://komarev.com/ghpvc/?username=CristianoRFB&style=for-the-badge&color=red" alt="Visualizações do perfil" />
+<img src="https://img.shields.io/github/followers/CristianoRFB?style=for-the-badge&color=red&labelColor=0d0d0d" alt="Seguidores" />
+<img src="https://img.shields.io/github/stars/CristianoRFB?style=for-the-badge&color=red&labelColor=0d0d0d" alt="Stars" />
 
 </div>
 
@@ -19,119 +21,120 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na Fatec Jales**, part
 
 ## Sobre mim
 
-* Cursando **Análise e Desenvolvimento de Sistemas** na [Fatec Jales](https://github.com/Fatec-ADS-AMS2025).
-* Técnico em **Desenvolvimento de Sistemas pela ETEC**.
-* Desenvolvedor Full Stack com foco em **React, Next.js, Node.js e .NET**.
-* Experiência com desenvolvimento de interfaces, APIs, bancos de dados e sistemas desktop.
-* Interesse em arquitetura de software, experiência do usuário, acessibilidade e automação.
-* Participante de projetos acadêmicos desenvolvidos em equipe utilizando metodologias ágeis.
-* Buscando transformar conhecimento técnico em aplicações funcionais, documentadas e utilizáveis.
+Sou **Desenvolvedor Full Stack** e estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Jales**.
+
+Tenho foco na criação de **aplicações web, sistemas de gerenciamento, interfaces modernas e soluções voltadas a problemas reais**, atuando no frontend, backend, documentação e estruturação de projetos.
+
+### Atualmente trabalho principalmente com:
+
+- **React, Next.js e TypeScript**
+- **Node.js, C# e .NET**
+- **PostgreSQL, SQLite, Supabase e MongoDB**
+- **Git, GitHub, Docker e documentação técnica**
 
 ---
 
 ## Projetos em destaque
 
-### Adrenalina — Sistema de gerenciamento de Lan House
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Sistema completo para gerenciamento de uma Lan House, composto por aplicações independentes para administradores e clientes.
+### Adrenalina
 
-O administrador consegue iniciar o servidor local, gerenciar o ambiente, realizar backups e acompanhar as máquinas conectadas. Já o aplicativo cliente permite autenticação, consulta de tempo, saldo, avisos e solicitações.
+Sistema de gerenciamento de **Lan House**, com aplicativo para administrador, aplicativo cliente, servidor local, autenticação, sincronização entre máquinas, backup e publicação self-contained.
 
-**Principais recursos:**
+**Tecnologias:**  
+`.NET` `C#` `SQLite` `Desktop Apps` `ASP.NET`
 
-* aplicativo desktop para administradores;
-* aplicativo desktop para clientes;
-* servidor local integrado;
-* autenticação de usuários;
-* banco de dados SQLite;
-* sincronização entre as máquinas;
-* sistema de backup;
-* configuração guiada no primeiro acesso;
-* fallback para navegador quando o WebView2 não está disponível;
-* publicação self-contained, sem necessidade de instalar o runtime do .NET.
+<br/>
 
-**Tecnologias:** `.NET` · `C#` · `SQLite` · `ASP.NET` · `Aplicações Desktop`
+<a href="https://github.com/CristianoRFB/Lan-House">
+  <img src="https://img.shields.io/badge/Ver_repositório-FF003C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[Ver repositório](https://github.com/CristianoRFB/Lan-House)
+</td>
+<td width="50%" valign="top">
 
----
+### SIGO
 
-### SIGO — Sistema de Gerenciamento de Oficinas
+Projeto integrador voltado ao **gerenciamento de oficinas**, desenvolvido em equipe, com participação no frontend, integração com API, organização de componentes e colaboração em sprints.
 
-Projeto Integrador desenvolvido em equipe para centralizar e organizar processos administrativos de oficinas.
+**Tecnologias:**  
+`React` `TypeScript` `Node.js` `API REST`
 
-A aplicação é dividida entre frontend e backend, permitindo o gerenciamento das principais informações do sistema por meio de uma interface web.
+<br/>
 
-**Participação no projeto:**
+<a href="https://github.com/CristianoRFB/SIGO-FrontEnd">
+  <img src="https://img.shields.io/badge/Frontend-B3002D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/CristianoRFB/SIGO-BackEnd">
+  <img src="https://img.shields.io/badge/Backend-85001F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-* desenvolvimento de funcionalidades no frontend;
-* integração entre interface e API;
-* organização de componentes;
-* colaboração utilizando Git e GitHub;
-* participação em sprints e divisão de tarefas;
-* documentação e apresentação das entregas.
+</td>
+</tr>
 
-**Tecnologias:** `React` · `TypeScript` · `Node.js` · `API REST` · `GitHub`
-
-[Organização do SIGO](https://github.com/PI-SIGO) ·
-[Frontend](https://github.com/CristianoRFB/SIGO-FrontEnd) ·
-[Backend](https://github.com/CristianoRFB/SIGO-BackEnd)
-
----
+<tr>
+<td width="50%" valign="top">
 
 ### Civitas
 
-Projeto acadêmico colaborativo desenvolvido pelos alunos da Fatec, voltado à criação de uma aplicação web organizada por sprints e funcionalidades.
+Projeto acadêmico colaborativo com foco em desenvolvimento web, interfaces responsivas, componentes reutilizáveis, formulários, validações e organização de tela com boas práticas.
 
-Minha participação envolve desenvolvimento frontend, manutenção de componentes, implementação de telas e colaboração em equipe.
+**Tecnologias:**  
+`Next.js` `React` `TypeScript` `GitHub`
 
-**Atividades desenvolvidas:**
+<br/>
 
-* criação de interfaces responsivas;
-* implementação de formulários e validações;
-* desenvolvimento com React e Next.js;
-* organização entre Server Components e Client Components;
-* tratamento de estados de carregamento, erro e ausência de dados;
-* versionamento e colaboração por Pull Requests.
+<a href="https://github.com/orgs/Fatec-ADS-AMS2025/projects/1">
+  <img src="https://img.shields.io/badge/Ver_projeto-660018?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Tecnologias:** `Next.js` · `React` · `TypeScript` · `Git` · `GitHub`
+</td>
+<td width="50%" valign="top">
 
-[Ver projeto Civitas](https://github.com/orgs/Fatec-ADS-AMS2025/projects/1)
+### Landing Page Comercial
 
----
+Landing page para clínica de estética com foco em **conversão, experiência mobile, SEO local, acessibilidade e integração com WhatsApp**.
 
-### Landing Page para Clínica de Estética
+**Tecnologias:**  
+`HTML` `CSS` `JavaScript` `SEO` `Acessibilidade`
 
-Landing page comercial criada para apresentar tratamentos e direcionar potenciais clientes para atendimento pelo WhatsApp.
+<br/>
 
-O projeto foi construído com foco em conversão, desempenho, acessibilidade e experiência mobile.
+<a href="https://github.com/CristianoRFB/landing-page-clinica-estetica">
+  <img src="https://img.shields.io/badge/Ver_repositório-2B0A0F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Principais recursos:**
-
-* design responsivo e mobile-first;
-* tratamentos organizados por objetivo;
-* formulário simplificado;
-* mensagem de WhatsApp gerada automaticamente;
-* captura de parâmetros UTM;
-* SEO local;
-* dados estruturados com Schema.org;
-* animações com suporte a `prefers-reduced-motion`;
-* navegação acessível por teclado;
-* carregamento progressivo sem frameworks.
-
-**Tecnologias:** `HTML5` · `CSS3` · `JavaScript` · `SEO` · `Acessibilidade`
-
-[Ver repositório](https://github.com/CristianoRFB/landing-page-clinica-estetica)
+</td>
+</tr>
+</table>
 
 ---
 
-### Monografia — Inteligência Artificial na Educação
+## Formação
 
-Trabalho acadêmico desenvolvido durante o curso técnico em Desenvolvimento de Sistemas, abordando o uso da Inteligência Artificial no ambiente educacional.
+### Fatec Jales
+**Tecnologia em Análise e Desenvolvimento de Sistemas — Cursando**
 
-O projeto analisa possibilidades, benefícios, impactos e desafios relacionados à adoção dessas tecnologias na educação.
+- Participação em projetos integradores
+- Desenvolvimento full stack
+- Trabalho em equipe com metodologias ágeis
+- Uso de Git, GitHub e organização por sprints
 
-[Ver monografia](https://github.com/CristianoRFB/Monografia)
+### ETEC
+**Técnico em Desenvolvimento de Sistemas — Concluído**
+
+- Formação em programação, banco de dados e documentação
+- Desenvolvimento de projetos acadêmicos e aplicações práticas
+
+### Monografia
+**A Inteligência Artificial na Educação**
+
+<a href="https://github.com/CristianoRFB/Monografia">
+  <img src="https://img.shields.io/badge/Ver_monografia-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -139,43 +142,7 @@ O projeto analisa possibilidades, benefícios, impactos e desafios relacionados 
 
 <div align="center">
 
-### Linguagens
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
-
-### Frontend
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=ffffff" alt="Astro"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"/>
-
-### Backend
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff" alt=".NET"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="Laravel"/>
-
-### Bancos de dados e serviços
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=ffffff" alt="Supabase"/>
-
-### Ferramentas
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,dotnet,cs,python,html,css,tailwind,postgres,mongodb,supabase,sqlite,docker,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -185,51 +152,60 @@ O projeto analisa possibilidades, benefícios, impactos e desafios relacionados 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CristianoRFB&show_icons=true&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CristianoRFB&show_icons=true&theme=transparent&title_color=ff1744&text_color=ffffff&icon_color=ff1744&border_color=7a001c&hide_border=false&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoRFB&layout=compact&locale=pt-br&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoRFB&layout=compact&theme=transparent&title_color=ff1744&text_color=ffffff&border_color=7a001c&hide_border=false&bg_color=00000000" />
 
 </div>
 
 ---
 
-## Formação
+## Contribuições
 
-### Fatec Jales
+<div align="center">
 
-**Tecnologia em Análise e Desenvolvimento de Sistemas — cursando**
+<img src="https://streak-stats.demolab.com?user=CristianoRFB&theme=transparent&ring=FF1744&fire=FF1744&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=DDDDDD&currStreakNum=FFFFFF&sideNums=FFFFFF&border=7A001C" />
 
-Durante a graduação, participo do desenvolvimento de projetos integradores e aplicações colaborativas utilizando práticas de engenharia de software, versionamento, metodologias ágeis e desenvolvimento Full Stack.
-
-[Fatec ADS AMS 2025](https://github.com/Fatec-ADS-AMS2025)
-
-### ETEC
-
-**Técnico em Desenvolvimento de Sistemas — concluído**
-
-Formação voltada ao desenvolvimento de aplicações, programação, banco de dados, documentação e construção de projetos de software.
+</div>
 
 ---
 
-## Idiomas
+## Contato
 
-* Português — nativo
-* Inglês — avançado
+<div align="center">
+
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/E--mail-B3002D?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-85001F?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/CristianoRFB">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## Outros projetos
 
-* [Portfólio profissional](https://github.com/CristianoRFB/Portifolio-Fatec)
-* [DesignSigo](https://github.com/CristianoRFB/DesignSigo)
-* [Produto e Fornecedor em .NET](https://github.com/CristianoRFB/ProdutoFornecedorDOTNET)
-* [7amino](https://github.com/CristianoRFB/7amino)
-* [Repositórios públicos](https://github.com/CristianoRFB?tab=repositories)
+- [Portfólio profissional](https://github.com/CristianoRFB/Portifolio-Fatec)
+- [DesignSigo](https://github.com/CristianoRFB/DesignSigo)
+- [ProdutoFornecedorDOTNET](https://github.com/CristianoRFB/ProdutoFornecedorDOTNET)
+- [Todos os repositórios](https://github.com/CristianoRFB?tab=repositories)
 
 ---
 
 <div align="center">
 
-### Construindo, aprendendo e transformando ideias em aplicações funcionais.
+### Interesse constante, evolução contínua e construção de soluções reais.
 
 </div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:050505,35:1A0000,65:7A001C,100:FF003C"
+/>
