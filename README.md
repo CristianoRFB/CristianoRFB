@@ -147,26 +147,77 @@ Landing page para clínica de estética com foco em **conversão, experiência m
 </div>
 
 ---
-
 ## Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CristianoRFB&show_icons=true&theme=transparent&title_color=ff1744&text_color=ffffff&icon_color=ff1744&border_color=7a001c&hide_border=false&bg_color=00000000" />
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianoRFB&theme=radical"
+  alt="Estatísticas de CristianoRFB"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoRFB&layout=compact&theme=transparent&title_color=ff1744&text_color=ffffff&border_color=7a001c&hide_border=false&bg_color=00000000" />
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristianoRFB&theme=radical"
+  alt="Linguagens mais utilizadas"
+/>
+
+<br/><br/>
+
+<img
+  width="97%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianoRFB&theme=radical"
+  alt="Detalhes das contribuições de CristianoRFB"
+/>
 
 </div>
-
 ---
 
 ## Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=CristianoRFB&theme=transparent&ring=FF1744&fire=FF1744&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=DDDDDD&currStreakNum=FFFFFF&sideNums=FFFFFF&border=7A001C" />
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Learnmath
+
+Aplicação educacional voltada ao estudo e à organização de conteúdos acadêmicos.
+
+<br>
+
+<a href="https://github.com/learnmathk/learnmathk.github.io">
+  <img src="https://img.shields.io/badge/Ver_repositório-FF1744?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="Repositório Learnmath"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### Mihon
+
+Leitor de mangás open source para Android, desenvolvido e mantido pela comunidade.
+
+<br>
+
+<a href="https://github.com/mihonapp/mihon">
+  <img src="https://img.shields.io/badge/Ver_repositório-B3002D?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="Repositório Mihon"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=700&lines=Colaborando+com+projetos+e+comunidades+open+source;Aprendendo+atrav%C3%A9s+de+c%C3%B3digo%2C+revis%C3%B5es+e+contribui%C3%A7%C3%B5es"
+/>
 
 </div>
+
 
 ---
 
@@ -174,11 +225,11 @@ Landing page para clínica de estética com foco em **conversão, experiência m
 
 <div align="center">
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:crisf.bueno10@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-B3002D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/cristiano-ronaldo-38022033b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
   <img src="https://img.shields.io/badge/LinkedIn-85001F?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
