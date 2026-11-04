@@ -87,7 +87,7 @@ Página de apresentação e captação de contatos, com atenção a **responsivi
 ## Colaborações e open source
 
 **[Mihon — leitura guiada por balões](https://github.com/chagretes/mihon/pull/1)**  
-Contribuição para um fork do leitor de mangás Android: aprimoramentos de robustez na leitura guiada por balões. [PR #1 mesclado no fork em 03/11/2026](https://github.com/chagretes/mihon/pull/1) · [PR #2 em revisão](https://github.com/chagretes/mihon/pull/2). **A integração foi no fork, não no repositório oficial do Mihon.**
+Contribuição para um fork do leitor de mangás Android: aprimoramentos de robustez na leitura guiada por balões. [PR #1 mesclado no fork em 03/11/2026](https://github.com/chagretes/mihon/pull/1) · [PR #2 aberto](https://github.com/chagretes/mihon/pull/2). **A integração foi no fork, não no repositório oficial do Mihon.**
 
 **[Learnmath](https://github.com/learnmathk/learnmathk.github.io)**  
 Projeto educacional colaborativo voltado ao estudo e à organização de conteúdos acadêmicos.
