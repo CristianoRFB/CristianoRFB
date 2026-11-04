@@ -1,273 +1,121 @@
 <div align="center">
 
 <img
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,35:1A0000,65:7A001C,100:FF003C&text=Cristiano%20Ronaldo%20Ferreira%20Bueno&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=62"
+  alt="Cristiano Ronaldo Ferreira Bueno — Desenvolvedor Full Stack"
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:1A0000,65:7A001C,100:FF003C&text=Cristiano%20Ronaldo%20Ferreira%20Bueno&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=58&animation=fadeIn"
 />
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=900&lines=Projetos+em+destaque%3A+Adrenalina+%7C+SIGO+%7C+Civitas;React+%7C+Node.js+%7C+.NET+%7C+TypeScript;Criando+solu%C3%A7%C3%B5es+reais+com+foco+em+produto+e+experi%C3%AAncia"
-/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=CristianoRFB&style=for-the-badge&color=red" alt="Visualizações do perfil" />
-<img src="https://img.shields.io/github/followers/CristianoRFB?style=for-the-badge&color=red&labelColor=0d0d0d" alt="Seguidores" />
-<img src="https://img.shields.io/github/stars/CristianoRFB?style=for-the-badge&color=red&labelColor=0d0d0d" alt="Stars" />
 
 </div>
 
+# Cristiano Ronaldo Ferreira Bueno
+
+**Desenvolvedor Full Stack | React · TypeScript · C#/.NET · Node.js**
+
+Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Jales** e técnico em **Desenvolvimento de Sistemas pela ETEC**. Construo aplicações web e desktop, sistemas de gestão e interfaces com atenção à experiência de uso, integração entre serviços e manutenção do código.
+
+**[LinkedIn](https://www.linkedin.com/in/cristiano-ronaldo-38022033b/)** · **[Portfólio](https://github.com/CristianoRFB/Portifolio-Fatec)** · **[Repositórios](https://github.com/CristianoRFB?tab=repositories)** · **[E-mail](mailto:crisf.bueno10@gmail.com)**
+
 ---
 
-## Sobre mim
+## Atividade no GitHub
 
-Sou **Desenvolvedor Full Stack** e estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Jales**.
+Indicadores de commits, pull requests, issues e repositórios com contribuições. **Os números abaixo são atualizados automaticamente pelo GitHub Actions**, sem depender de imagens SVG para serem exibidos.
 
-Tenho foco na criação de **aplicações web, sistemas de gerenciamento, interfaces modernas e soluções voltadas a problemas reais**, atuando no frontend, backend, documentação e estruturação de projetos.
+<!-- PROFILE_STATS_START -->
+| Indicador | Total | Histórico |
+| :--- | ---: | :--- |
+| Commits | **851** | [Ver commits](https://github.com/search?q=author%3ACristianoRFB&type=commits) |
+| Pull requests | **128** | [Ver PRs](https://github.com/search?q=author%3ACristianoRFB&type=pullrequests) |
+| Issues | **15** | [Ver issues](https://github.com/search?q=author%3ACristianoRFB&type=issues) |
+| Repositórios com contribuições | **46** | [Ver atividade](https://github.com/CristianoRFB?tab=overview) |
 
-### Atualmente trabalho principalmente com:
+<sub>Atualizado automaticamente em 04/11/2026 (horário de Brasília). Totais calculados pelo gerador de estatísticas do perfil; não representam apenas o ano atual.</sub>
+<!-- PROFILE_STATS_END -->
 
-- **React, Next.js e TypeScript**
-- **Node.js, C# e .NET**
-- **PostgreSQL, SQLite, Supabase e MongoDB**
-- **Git, GitHub, Docker e documentação técnica**
+[Ver gráfico de contribuições no GitHub](https://github.com/CristianoRFB?tab=overview) · [Consultar PRs mesclados](https://github.com/search?q=author%3ACristianoRFB+is%3Amerged&type=pullrequests) · [Automação das estatísticas](https://github.com/CristianoRFB/CristianoRFB/blob/main/.github/workflows/estatisticas.yml)
 
 ---
 
 ## Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 · [Adrenalina — Gestão de Lan House](https://github.com/CristianoRFB/Lan-House)
 
-### Adrenalina
+Sistema desktop com **aplicações independentes para administração e estações clientes**, servidor local, autenticação, acompanhamento das sessões e persistência dos dados. O projeto separa responsabilidades entre interface, API, infraestrutura e regras de negócio.
 
-Sistema de gerenciamento de **Lan House**, com aplicativo para administrador, aplicativo cliente, servidor local, autenticação, sincronização entre máquinas, backup e publicação self-contained.
+**Tecnologias:** C#, .NET, ASP.NET Core, WinForms, WPF e SQLite.
 
-**Tecnologias:**  
-`.NET` `C#` `SQLite` `Desktop Apps` `ASP.NET`
+### 02 · SIGO — Gestão de oficinas
 
-<br/>
+Projeto integrador desenvolvido em equipe. Além da organização das operações da oficina, um diferencial proposto é **permitir que o cliente acompanhe as alterações realizadas em seu veículo e identifique as oficinas responsáveis**. Participo do desenvolvimento de interfaces, integração com API, componentes e trabalho em sprints.
 
-<a href="https://github.com/CristianoRFB/Lan-House">
-  <img src="https://img.shields.io/badge/Ver_repositório-FF003C?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tecnologias:** React, TypeScript, Node.js e API REST.
 
-</td>
-<td width="50%" valign="top">
+**Código:** [Frontend](https://github.com/CristianoRFB/SIGO-FrontEnd) · [Backend](https://github.com/CristianoRFB/SIGO-BackEnd)
 
-### SIGO
+### 03 · [Caravana 77 — Plataforma para organizadores](https://github.com/CristianoRFB/Caravana)
 
-Projeto integrador voltado ao **gerenciamento de oficinas**, desenvolvido em equipe, com participação no frontend, integração com API, organização de componentes e colaboração em sprints.
+Plataforma **em desenvolvimento**, voltada à publicação de caravanas, inscrições, acompanhamento financeiro e check-in. Contém jornadas distintas para organizadores e participantes, além de ambiente de demonstração e testes.
 
-**Tecnologias:**  
-`React` `TypeScript` `Node.js` `API REST`
+**Tecnologias:** React, TypeScript, Vite e Firebase.
 
-<br/>
+### 04 · [Civitas — Projeto acadêmico colaborativo](https://github.com/orgs/Fatec-ADS-AMS2025/projects/1)
 
-<a href="https://github.com/CristianoRFB/SIGO-FrontEnd">
-  <img src="https://img.shields.io/badge/Frontend-B3002D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/CristianoRFB/SIGO-BackEnd">
-  <img src="https://img.shields.io/badge/Backend-85001F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Trabalho em equipe com foco em desenvolvimento web, telas responsivas, componentes reutilizáveis, formulários, validações e organização das atividades por tarefas.
 
-</td>
-</tr>
+**Tecnologias:** Next.js, React, TypeScript e GitHub Projects.
 
-<tr>
-<td width="50%" valign="top">
+### 05 · [Landing Page Comercial — Clínica de estética](https://github.com/CristianoRFB/landing-page-clinica-estetica)
 
-### Civitas
+Página de apresentação e captação de contatos, com atenção a **responsividade, SEO local, acessibilidade e integração com WhatsApp**.
 
-Projeto acadêmico colaborativo com foco em desenvolvimento web, interfaces responsivas, componentes reutilizáveis, formulários, validações e organização de tela com boas práticas.
+**Tecnologias:** HTML, CSS e JavaScript.
 
-**Tecnologias:**  
-`Next.js` `React` `TypeScript` `GitHub`
+---
 
-<br/>
+## Tecnologias e ferramentas
 
-<a href="https://github.com/orgs/Fatec-ADS-AMS2025/projects/1">
-  <img src="https://img.shields.io/badge/Ver_projeto-660018?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+| Área | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Backend e desktop** | C#, .NET, ASP.NET Core, Node.js, Python, WinForms, WPF |
+| **Dados** | PostgreSQL, SQLite, MongoDB, Supabase, Firebase |
+| **Práticas e ferramentas** | Git, GitHub, Docker, APIs REST, documentação técnica, testes e trabalho em equipe |
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Landing Page Comercial
+## Colaborações e open source
 
-Landing page para clínica de estética com foco em **conversão, experiência mobile, SEO local, acessibilidade e integração com WhatsApp**.
+**[Mihon — leitura guiada por balões](https://github.com/chagretes/mihon/pull/1)**  
+Contribuição para um fork do leitor de mangás Android: aprimoramentos de robustez na leitura guiada por balões. [PR #1 mesclado no fork em 03/11/2026](https://github.com/chagretes/mihon/pull/1) · [PR #2 em revisão](https://github.com/chagretes/mihon/pull/2). **A integração foi no fork, não no repositório oficial do Mihon.**
 
-**Tecnologias:**  
-`HTML` `CSS` `JavaScript` `SEO` `Acessibilidade`
-
-<br/>
-
-<a href="https://github.com/CristianoRFB/landing-page-clinica-estetica">
-  <img src="https://img.shields.io/badge/Ver_repositório-2B0A0F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+**[Learnmath](https://github.com/learnmathk/learnmathk.github.io)**  
+Projeto educacional colaborativo voltado ao estudo e à organização de conteúdos acadêmicos.
 
 ---
 
 ## Formação
 
-### Fatec Jales
-**Tecnologia em Análise e Desenvolvimento de Sistemas — Cursando**
+**Fatec Jales — Análise e Desenvolvimento de Sistemas**  
+*Em andamento.* Projetos integradores, desenvolvimento full stack, Git/GitHub e colaboração em equipe.
 
-- Participação em projetos integradores
-- Desenvolvimento full stack
-- Trabalho em equipe com metodologias ágeis
-- Uso de Git, GitHub e organização por sprints
+**ETEC — Técnico em Desenvolvimento de Sistemas**  
+*Concluído.* Fundamentos de programação, bancos de dados e documentação de sistemas.
 
-### ETEC
-**Técnico em Desenvolvimento de Sistemas — Concluído**
-
-- Formação em programação, banco de dados e documentação
-- Desenvolvimento de projetos acadêmicos e aplicações práticas
-
-### Monografia
-**A Inteligência Artificial na Educação**
-
-<a href="https://github.com/CristianoRFB/Monografia">
-  <img src="https://img.shields.io/badge/Ver_monografia-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**[Monografia: A Inteligência Artificial na Educação](https://github.com/CristianoRFB/Monografia)**
 
 ---
 
-## Stack principal
+## Mais repositórios
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,dotnet,cs,python,html,css,tailwind,postgres,mongodb,supabase,sqlite,docker,git,github,vscode&theme=dark" />
-
-</div>
-
----
-## Estatísticas
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img
-  src="./profile-summary-card-output/radical/3-stats.svg"
-  alt="Estatísticas de CristianoRFB"
-  width="100%"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<img
-  src="./profile-summary-card-output/radical/1-repos-per-language.svg"
-  alt="Linguagens mais utilizadas"
-  width="100%"
-/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img
-  src="./profile-summary-card-output/radical/0-profile-details.svg"
-  alt="Detalhes das contribuições de CristianoRFB"
-  width="97%"
-/>
-
-</div>
-
-## Contribuições
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### Learnmath
-
-Aplicação educacional voltada ao estudo e à organização de conteúdos acadêmicos.
-
-<br>
-
-<a href="https://github.com/learnmathk/learnmathk.github.io">
-  <img src="https://img.shields.io/badge/Ver_repositório-FF1744?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="Repositório Learnmath"/>
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### Mihon
-
-Leitor de mangás open source para Android, desenvolvido e mantido pela comunidade.
-
-<br>
-
-<a href="https://github.com/mihonapp/mihon">
-  <img src="https://img.shields.io/badge/Ver_repositório-B3002D?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="Repositório Mihon"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=700&lines=Colaborando+com+projetos+e+comunidades+open+source;Aprendendo+atrav%C3%A9s+de+c%C3%B3digo%2C+revis%C3%B5es+e+contribui%C3%A7%C3%B5es"
-/>
-
-</div>
-
-
----
-
-## Contato
-
-<div align="center">
-
-<a href="mailto:crisf.bueno10@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-B3002D?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/cristiano-ronaldo-38022033b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-  <img src="https://img.shields.io/badge/LinkedIn-85001F?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/CristianoRFB">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## Outros projetos
-
-- [Portfólio profissional](https://github.com/CristianoRFB/Portifolio-Fatec)
-- [DesignSigo](https://github.com/CristianoRFB/DesignSigo)
-- [ProdutoFornecedorDOTNET](https://github.com/CristianoRFB/ProdutoFornecedorDOTNET)
-- [Todos os repositórios](https://github.com/CristianoRFB?tab=repositories)
+[Portfólio profissional](https://github.com/CristianoRFB/Portifolio-Fatec) · [DesignSigo](https://github.com/CristianoRFB/DesignSigo) · [ProdutoFornecedorDOTNET](https://github.com/CristianoRFB/ProdutoFornecedorDOTNET) · [Todos os projetos](https://github.com/CristianoRFB?tab=repositories)
 
 ---
 
 <div align="center">
 
-### Interesse constante, evolução contínua e construção de soluções reais.
+**Interesse constante, evolução contínua e soluções construídas para problemas reais.**
+
+[LinkedIn](https://www.linkedin.com/in/cristiano-ronaldo-38022033b/) · [GitHub](https://github.com/CristianoRFB) · [E-mail](mailto:crisf.bueno10@gmail.com)
 
 </div>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:050505,35:1A0000,65:7A001C,100:FF003C"
-/>
