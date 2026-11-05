@@ -81,10 +81,10 @@ def main() -> None:
     version = datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%Y%m%d")
     image_pattern = re.compile(
         r"(https://raw\.githubusercontent\.com/CristianoRFB/CristianoRFB/main/"
-        r"assets/(?:stats|languages|contributions)\.png)\?v=\d{8}"
+        r"assets/(?:stats|languages|contributions|contribution-calendar)\.png)\?v=\d{8}"
     )
-    if len(image_pattern.findall(updated)) != 3:
-        raise RuntimeError("São esperadas exatamente três imagens de estatísticas versionadas")
+    if len(image_pattern.findall(updated)) != 4:
+        raise RuntimeError("São esperadas exatamente quatro imagens de estatísticas versionadas")
     updated = image_pattern.sub(lambda match: match.group(1) + "?v=" + version, updated)
     if updated != original:
         README_PATH.write_text(updated, encoding="utf-8")
