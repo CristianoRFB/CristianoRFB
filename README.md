@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/cristiano-ronaldo-38022033b/"><img src="https://img.shields.io/badge/LinkedIn-B3002D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/CristianoRFB?tab=repositories"><img src="https://img.shields.io/badge/Projetos-FF003C?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositórios" /></a>
 <a href="mailto:crisf.bueno10@gmail.com"><img src="https://img.shields.io/badge/Contato-171717?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/CristianoRFB/CristianoRFB/raw/refs/heads/main/assets/Curriculo_Cristiano_Ronaldo_Ferreira_Bueno.pdf"><img src="https://img.shields.io/badge/BAIXAR_CURR%C3%8DCULO-PDF-FF003C?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="Baixar currículo de Cristiano em PDF" /></a>
 
 </div>
 
@@ -28,8 +29,6 @@
 
 ---
 
-## GitHub em números
-
 <div align="center">
 
 <table>
@@ -40,6 +39,8 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contributions.png?v=20261105" width="98%" alt="Gráfico de contribuições e atividade no GitHub" />
+<a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contribution-calendar.png?v=20261105" width="98%" alt="Calendário de contribuições de CristianoRFB: quadrados por dia, em tons de vermelho segundo a atividade" /></a>
+
 
 <br/>
 
@@ -84,6 +85,25 @@
 <br/>
 
 <a href="https://github.com/CristianoRFB/Caravana"><img src="https://img.shields.io/badge/EXPLORAR_SAAS-FF003C?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar Caravana 77 no GitHub" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### SaaS Food — Cardápio, pedidos e gestão
+
+<a href="https://github.com/CristianoRFB/Restaurante"><img src="https://raw.githubusercontent.com/CristianoRFB/Restaurante/main/docs/referencias-visuais/02-public-cardapio.png" width="49%" alt="Referência visual do cardápio digital no SaaS Food" /></a>
+<a href="https://github.com/CristianoRFB/Restaurante"><img src="https://raw.githubusercontent.com/CristianoRFB/Restaurante/main/docs/referencias-visuais/06-admin-dashboard.png" width="49%" alt="Referência visual do painel de gestão do SaaS Food" /></a>
+
+**Cardápio digital, pedidos, reservas, mesas com QR Code e painel administrativo.** Projeto para operação de restaurantes.
+
+<sub>Imagens de referência visual versionadas no repositório.</sub>
+
+<br/>
+
+<a href="https://github.com/CristianoRFB/Restaurante"><img src="https://img.shields.io/badge/EXPLORAR_SAAS_FOOD-B3002D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar código do SaaS Food" /></a>
 
 </div>
 
@@ -154,6 +174,24 @@ Projeto educacional colaborativo.
 </tr>
 </table>
 
+### Experiência, idiomas e certificações
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/INGL%C3%8AS-AVAN%C3%87ADO-FF1744?style=for-the-badge&amp;logo=googletranslate&amp;logoColor=white" alt="Inglês avançado" />
+<img src="https://img.shields.io/badge/PORTUGU%C3%8AS-NATIVO-171717?style=for-the-badge&amp;logo=googletranslate&amp;logoColor=white" alt="Português nativo" />
+<img src="https://img.shields.io/badge/ESPANHOL-B%C3%81SICO-85001F?style=flat-square" alt="Espanhol básico" />
+<img src="https://img.shields.io/badge/ITALIANO-B%C3%81SICO-85001F?style=flat-square" alt="Italiano básico" />
+<img src="https://img.shields.io/badge/RUSSO-B%C3%81SICO-85001F?style=flat-square" alt="Russo básico" />
+
+</div>
+
+**Atuação:** desenvolvedor freelancer desde 2025 · designer gráfico freelancer desde 2022 · estudo de arquitetura SaaS multi-tenant e white-label.
+
+**Certificações (2026):** Análise de Dados com Power BI · Arquitetura de Software e Performance · Como alavancar sua carreira com Power BI · Tendências e Carreira em Tecnologia da Informação.
+
+<sub>Experiência e idiomas registrados no currículo; certificados e idiomas também constam no LinkedIn.</sub>
+
 ---
 
 <div align="center">
@@ -163,6 +201,7 @@ Projeto educacional colaborativo.
 <a href="https://www.linkedin.com/in/cristiano-ronaldo-38022033b/"><img src="https://img.shields.io/badge/LinkedIn-85001F?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:crisf.bueno10@gmail.com"><img src="https://img.shields.io/badge/E--mail-B3002D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail" /></a>
 <a href="https://github.com/CristianoRFB"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/CristianoRFB/CristianoRFB/raw/refs/heads/main/assets/Curriculo_Cristiano_Ronaldo_Ferreira_Bueno.pdf"><img src="https://img.shields.io/badge/BAIXAR_CURR%C3%8DCULO-PDF-FF003C?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="Baixar currículo de Cristiano em PDF" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=115&amp;color=0:050505,35:1A0000,65:7A001C,100:FF003C" alt="" />
 
