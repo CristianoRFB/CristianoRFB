@@ -67,10 +67,18 @@ jobs:
           python-version: '3.12'
 
       - name: Instalar rasterizador de SVG
-        run: python -m pip install --disable-pip-version-check --no-input "CairoSVG==2.7.1"
+        run: python -m pip install --disable-pip-version-check --no-input "CairoSVG==2.7.1" "reportlab==4.2.5"
 
       - name: Exportar PNGs e prévia ilustrativa do Adrenalina
         run: python3 .github/scripts/render_profile_images.py
+
+      - name: Gerar calendário real de contribuições
+        run: python3 .github/scripts/generate_contributions_calendar.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar currículo profissional em PDF
+        run: python3 .github/scripts/generate_cv.py
 
       - name: Atualizar métricas acessíveis no README
         shell: bash
