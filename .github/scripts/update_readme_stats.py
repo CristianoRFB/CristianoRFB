@@ -76,6 +76,16 @@ def main() -> None:
         raise RuntimeError("Marcadores de estatísticas ausentes ou duplicados no README")
 
     updated = pattern.sub(lambda _: render_block(counts), original, count=1)
+    # O cache de imagens do GitHub pode preservar cartões antigos. Altere a
+    # versão diária das três imagens para que o app obtenha os novos PNGs.
+    version = datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%Y%m%d")
+    image_pattern = re.compile(
+        r"(https://raw\.githubusercontent\.com/CristianoRFB/CristianoRFB/main/"
+        r"assets/(?:stats|languages|contributions)\.png)\?v=\d{8}"
+    )
+    if len(image_pattern.findall(updated)) != 3:
+        raise RuntimeError("São esperadas exatamente três imagens de estatísticas versionadas")
+    updated = image_pattern.sub(lambda match: match.group(1) + "?v=" + version, updated)
     if updated != original:
         README_PATH.write_text(updated, encoding="utf-8")
     print("Estatísticas atualizadas:", ", ".join(f"{k} {v}" for k, v in counts.items()))
