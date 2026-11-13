@@ -33,13 +33,13 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/stats.png?v=20261112" width="100%" alt="Cartão atualizado de commits, pull requests, issues e repositórios com contribuições" /></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/languages.png?v=20261112" width="100%" alt="Linguagens mais utilizadas nos commits" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/stats.png?v=20261113" width="100%" alt="Cartão atualizado de commits, pull requests, issues e repositórios com contribuições" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/languages.png?v=20261113" width="100%" alt="Linguagens mais utilizadas nos commits" /></td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contributions.png?v=20261112" width="98%" alt="Gráfico de contribuições e atividade no GitHub" />
-<a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contribution-calendar.png?v=20261112" width="98%" alt="Calendário de contribuições de CristianoRFB: quadrados por dia, em tons de vermelho segundo a atividade" /></a>
+<img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contributions.png?v=20261113" width="98%" alt="Gráfico de contribuições e atividade no GitHub" />
+<a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contribution-calendar.png?v=20261113" width="98%" alt="Calendário de contribuições de CristianoRFB: quadrados por dia, em tons de vermelho segundo a atividade" /></a>
 
 
 <br/>
@@ -60,7 +60,7 @@
 | Issues | **15** | [Ver issues](https://github.com/search?q=author%3ACristianoRFB&type=issues) |
 | Repositórios com contribuições | **48** | [Ver atividade](https://github.com/CristianoRFB?tab=overview) |
 
-<sub>Atualizado automaticamente em 12/11/2026 (horário de Brasília). Totais calculados pelo gerador de estatísticas do perfil; não representam apenas o ano atual.</sub>
+<sub>Atualizado automaticamente em 13/11/2026 (horário de Brasília). Totais calculados pelo gerador de estatísticas do perfil; não representam apenas o ano atual.</sub>
 <!-- PROFILE_STATS_END -->
 
 </details>
