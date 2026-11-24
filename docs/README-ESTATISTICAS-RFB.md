@@ -36,12 +36,20 @@ Os dois primeiros gráficos reutilizam a função `get_counts()` do calendário 
 - [x] Inspecionar README e preservar seu conteúdo existente, adicionando **somente** o bloco HTML identificado como `RFB VISUAL STATS`.
 - [x] Preservar os quatro PNGs já referenciados e o botão de currículo.
 - [x] Incluir três novos caminhos de imagem e respectivo texto alternativo.
-- [ ] Verificar execução do GitHub Actions após a intervenção.
-- [ ] Verificar existência e tamanhos dos três PNGs publicados.
-- [ ] Conferir que o README público referencia os três recursos e mantém as seções antigas.
+- [x] GitHub Actions PASS na execução [45314742479](https://github.com/CristianoRFB/CristianoRFB/actions/runs/45314742479), após correção do push concorrente com rebase não forçado.
+- [x] Três PNGs presentes em `assets/`: `activity-graph.png` (83038 bytes), `streak-card.png` (54237 bytes) e `productive-time.png` (35836 bytes).
+- [x] README `main` contém exatamente três novas referências de imagem, preservando os cartões existentes, projetos e currículo.
 
 ## Reversão mínima
 
 Remover apenas o bloco entre `<!-- RFB VISUAL STATS: ... -->` e `<!-- /RFB VISUAL STATS -->` para restaurar visualmente o README anterior; os demais visuais permanecem intocados. Se necessário, retirar somente as entradas dos novos PNGs e a chamada a `generate_activity_extras.py`, sem alterar os gráficos existentes.
 
 **Limites:** a contagem de sequências considera exclusivamente o histórico público disponibilizado (aproximadamente 12 meses); não substitui o total vitalício de commits. Não foi realizado deploy de produto nem alteração em projetos de SaaS.
+
+## Verificação da rodada (23/11/2026)
+
+- PASS — extração via GitHub GraphQL para gráfico e streak (evidência: logs do Actions).
+- PASS — geração de PNGs com identidade visual preto/vermelho; cartão de horários convertido do SVG existente.
+- PASS — workflow concluído com sucesso e push no `main`; sem `force-push` e sem PR/Issue alterado.
+- PASS — nenhuma seção existente do README foi editada manualmente fora da inserção dos três cartões; a automação diária segue atualizando os números.
+- LIMITAÇÃO — não foi feita inspeção visual em navegador móvel real nesta rodada; PNGs possuem tamanhos válidos e podem ser vistos no GitHub.
