@@ -77,14 +77,14 @@ def main() -> None:
 
     updated = pattern.sub(lambda _: render_block(counts), original, count=1)
     # O cache de imagens do GitHub pode preservar cartões antigos. Altere a
-    # versão diária das três imagens para que o app obtenha os novos PNGs.
+    # versão diária das imagens geradas para que o app obtenha os novos PNGs.
     version = datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%Y%m%d")
     image_pattern = re.compile(
         r"(https://raw\.githubusercontent\.com/CristianoRFB/CristianoRFB/main/"
-        r"assets/(?:stats|languages|contributions|contribution-calendar)\.png)\?v=\d{8}"
+        r"assets/(?:stats|languages|contributions|contribution-calendar|activity-graph|streak-card|productive-time)\.png)\?v=\d{8}"
     )
-    if len(image_pattern.findall(updated)) != 4:
-        raise RuntimeError("São esperadas exatamente quatro imagens de estatísticas versionadas")
+    if len(image_pattern.findall(updated)) != 7:
+        raise RuntimeError("São esperadas exatamente sete imagens de estatísticas versionadas")
     updated = image_pattern.sub(lambda match: match.group(1) + "?v=" + version, updated)
     if updated != original:
         README_PATH.write_text(updated, encoding="utf-8")
