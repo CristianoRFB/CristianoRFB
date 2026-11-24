@@ -41,6 +41,17 @@
 <img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contributions.png?v=20261123" width="98%" alt="Gráfico de contribuições e atividade no GitHub" />
 <a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/contribution-calendar.png?v=20261123" width="98%" alt="Calendário de contribuições de CristianoRFB: quadrados por dia, em tons de vermelho segundo a atividade" /></a>
 
+<!-- RFB VISUAL STATS: três complementos, sem substituir os gráficos existentes -->
+<a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/activity-graph.png?v=20261123" width="98%" alt="Gráfico de atividade do GitHub de CristianoRFB nos últimos 31 dias, com linha vermelha sobre fundo preto" /></a>
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/streak-card.png?v=20261123" width="100%" alt="Sequência atual e maior sequência de dias com contribuições públicas de CristianoRFB nos últimos 12 meses" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/CristianoRFB?tab=overview"><img src="https://raw.githubusercontent.com/CristianoRFB/CristianoRFB/main/assets/productive-time.png?v=20261123" width="100%" alt="Horários de maior atividade de CristianoRFB no GitHub, ajustados para UTC menos 3" /></a></td>
+</tr>
+</table>
+<!-- /RFB VISUAL STATS -->
+
 
 <br/>
 
