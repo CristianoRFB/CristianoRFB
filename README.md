@@ -66,8 +66,8 @@
 <!-- PROFILE_STATS_START -->
 | Indicador | Total | Histórico |
 | :--- | ---: | :--- |
-| Commits | **988** | [Ver commits](https://github.com/search?q=author%3ACristianoRFB&type=commits) |
-| Pull requests | **154** | [Ver PRs](https://github.com/search?q=author%3ACristianoRFB&type=pullrequests) |
+| Commits | **1.0k** | [Ver commits](https://github.com/search?q=author%3ACristianoRFB&type=commits) |
+| Pull requests | **160** | [Ver PRs](https://github.com/search?q=author%3ACristianoRFB&type=pullrequests) |
 | Issues | **19** | [Ver issues](https://github.com/search?q=author%3ACristianoRFB&type=issues) |
 | Repositórios com contribuições | **58** | [Ver atividade](https://github.com/CristianoRFB?tab=overview) |
 
