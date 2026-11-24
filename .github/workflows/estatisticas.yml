@@ -101,5 +101,8 @@ jobs:
             echo "Nenhuma alteração encontrada."
           else
             git commit -m "Atualiza estatísticas do perfil"
-            git push
+            # Preservar commits publicados enquanto a geração estava em andamento.
+            # Rebase sem force-push: não descartar mudanças do repositório.
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
