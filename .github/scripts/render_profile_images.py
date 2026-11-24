@@ -16,6 +16,7 @@ ASSETS = [
     ("profile-summary-card-output/radical/3-stats.svg", "stats.png", 1020),
     ("profile-summary-card-output/radical/2-most-commit-language.svg", "languages.png", 1020),
     ("profile-summary-card-output/radical/0-profile-details.svg", "contributions.png", 1400),
+    ("profile-summary-card-output/radical/4-productive-time.svg", "productive-time.png", 1020),
     (".github/assets/adrenalina-admin.svg", "adrenalina-admin.png", 960),
 ]
 
