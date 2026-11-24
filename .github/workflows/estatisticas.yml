@@ -77,6 +77,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Gerar gráfico de atividade e sequências (paleta RFB)
+        run: python3 .github/scripts/generate_activity_extras.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Gerar currículo profissional em PDF
         run: python3 .github/scripts/generate_cv.py
 
